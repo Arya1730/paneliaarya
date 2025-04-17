@@ -1,0 +1,27 @@
+
+.container{
+  margin-top: 200px;
+  margin-left: 350px;
+  width: 700px;
+  height: 350px;
+  background-color: white;
+}
+.img-sec{
+  float: left;
+  width: 40%;
+  height: 350px;
+}
+.content{
+  float: right;
+  width: 60%;
+  height: 350px;
+}
+#travel{
+  color: rgb(61, 61, 61);
+  background-color: rgb(228, 225, 225);
+  width: 14%;
+  padding: 5px;
+}
+.travel2{
+  color: gray;
+}
